@@ -1,6 +1,6 @@
 # Routing and Switching Labs
 
-Welcome to the **Routing and Switching Labs** repository! This repository contains a collection of practical labs that demonstrate my skills and knowledge in the field of routing and switching. The labs showcased here are a reflection of what I have learned through my personal, academic, and work experiences.
+Welcome to the **Routing and Switching Labs** repository! This repository contains a collection of practical labs that demonstrate my skills and knowledge in the field of Networking. The labs showcased here are a reflection of what I have learned through my personal, academic, and work experiences.
 
 ## Table of Contents
 
