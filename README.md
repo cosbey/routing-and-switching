@@ -19,7 +19,7 @@ The labs included in this repository are designed to provide practical examples 
 
 ## Lab Directory
 
-The labs in this repository are organized into the following categories:
+The labs in this repository will contain the following categories:
 
 1. **Basic Routing**: These labs cover the fundamental concepts of IP routing, including static routing, dynamic routing protocols such as OSPF and EIGRP, and routing table manipulation.
 
