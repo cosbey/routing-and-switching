@@ -36,7 +36,7 @@ To make the most of this repository, follow these steps:
 1. Clone the repository to your local machine using the following command:
 
    ```shell
-   git clone https://github.com/your-username/routing-and-switching.git
+   git clone https://github.com/cosbey/routing-and-switching.git
    ```
 
 2. Navigate to the specific lab directory you are interested in.
@@ -59,4 +59,4 @@ The content of this repository is licensed under the [MIT License](LICENSE). Fee
 
 ## Contact
 
-If you have any questions, suggestions, or just want to connect, you can reach me at [your-email@example.com](mailto:your-email@example.com). I would love to hear from you and discuss any networking-related topics or collaborations.
+If you have any questions, suggestions, or just want to connect, you can reach me at [cgosbey@gmail.com](mailto:your-email@example.com). I would love to hear from you and discuss any networking-related topics or collaborations.
